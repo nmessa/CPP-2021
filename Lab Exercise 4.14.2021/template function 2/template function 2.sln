@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "template function 2", "template function 2\template function 2.vcxproj", "{DD76E9AD-C58D-436D-8CFA-3752FAA35CFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD76E9AD-C58D-436D-8CFA-3752FAA35CFF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DD76E9AD-C58D-436D-8CFA-3752FAA35CFF}.Debug|Win32.Build.0 = Debug|Win32
+		{DD76E9AD-C58D-436D-8CFA-3752FAA35CFF}.Release|Win32.ActiveCfg = Release|Win32
+		{DD76E9AD-C58D-436D-8CFA-3752FAA35CFF}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
